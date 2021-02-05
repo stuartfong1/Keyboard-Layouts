@@ -1,2 +1,2 @@
 # Keyboard-Layouts
-My personal keyboard layouts.
+My personal keyboard layout.
