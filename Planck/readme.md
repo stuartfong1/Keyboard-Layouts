@@ -21,6 +21,9 @@ This uses the Colemak DH layout with the wide mod.
 - Modifiers are located at the bottom left and bottom right of the keyboard. They can be accessed by moving the thumbs or with the sides of your hands.
 
 ## Numpad Layer
+
+![Image of Numpad Layer](/Planck/images/numpad.png)
+
 This contains a numpad and some non-alphanumeric characters such as math symbols and quotes.
 
 - The numpad is found under the right hand. It contains numbers and basic math symbols.
@@ -28,6 +31,9 @@ This contains a numpad and some non-alphanumeric characters such as math symbols
 - The rest of the keys are those that are commonly used while writing code.
 
 ## Navigation Layer
+
+![Image of Navigation Layer](/Planck/images/navigation.png)
+
 This contains mouse keys, arrow keys, and other keys used for navigation.
 
 - The left side has all the basic functionality of a mouse. The keys on the home row are used to move the mouse, the top ones are used for clicking on something, and the keys on the bottom are used to move the scroll wheel. The speed of the mouse can be adjusted using the right index finger.
@@ -35,12 +41,18 @@ This contains mouse keys, arrow keys, and other keys used for navigation.
 - Media keys are located on the bottom right, and the volume can be adjusted by using the left index finger.
 
 ## Symbol Layer
+
+![Image of Symbol Layer](/Planck/images/symbol.png)
+
 This contains all the symbols that are not found on the other layers.
 
 - The left side has most of the shifted number keys in increasing order. Some other keys here are for bitwise operators.
 - The right side has symbols that are repeated in the numpad layer. Individual brackets are located here in case I accidentally press backspace on one.
 
 ## Function Layer
+
+![Image of Function Layer](/Planck/images/function.png)
+
 This has all the function keys from F1 to F24.
 
 - The function keys are sorted in increasing order.
@@ -50,4 +62,10 @@ This has all the function keys from F1 to F24.
 ## Additional Layers
 
 - Adjust: Some settings for RGB control, music mode, and to reset the keyboard.
+
+![Image of Adjust Layer](/Planck/images/adjust.png)
+
 - Plover: Used for stenography (http://www.openstenoproject.org). As I am still learning, I have included tab, enter, backspace, and space keys.
+
+![Image of Plover Layer](/Planck/images/plover.png)
+
