@@ -9,6 +9,9 @@ I made this layout to improve ergonomics during daily usage, and to make access 
 This was made to work on a Planck rev. 6.1, and is used on macOS.
 
 ## Base Layer
+
+![Image of Base Layer](/images/base.png)
+
 This uses the Colemak DH layout with the wide mod.
 
 - Colemak is an alternative to the QWERTY layout designed for efficient and ergonomic typing in the English language (https://colemak.com). The Colemak DH is a modification of Colemak that makes the D and H keys easier to reach. The wide mod shifts the halves of the keyboard apart, making it easier on the shoulders (https://colemakmods.github.io/mod-dh/).
