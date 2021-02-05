@@ -10,7 +10,7 @@ This was made to work on a Planck rev. 6.1, and is used on macOS.
 
 ## Base Layer
 
-![Image of Base Layer](/images/base.png)
+![Image of Base Layer](/Planck/images/base.png)
 
 This uses the Colemak DH layout with the wide mod.
 
