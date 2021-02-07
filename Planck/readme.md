@@ -10,7 +10,7 @@ This was made to work on a Planck rev. 6.1, and is used on macOS.
 
 ## Base Layer
 
-![Image of Base Layer](/Planck/images/base.png)
+![Image of Base Layer](https://imgur.com/XO7sgv4)
 
 This uses the Colemak DH layout with the wide mod.
 
@@ -22,7 +22,7 @@ This uses the Colemak DH layout with the wide mod.
 
 ## Numpad Layer
 
-![Image of Numpad Layer](/Planck/images/numpad.png)
+![Image of Numpad Layer](https://imgur.com/tu45YVI)
 
 This contains a numpad and some non-alphanumeric characters such as math symbols and quotes.
 
@@ -32,7 +32,7 @@ This contains a numpad and some non-alphanumeric characters such as math symbols
 
 ## Navigation Layer
 
-![Image of Navigation Layer](/Planck/images/navigation.png)
+![Image of Navigation Layer](https://imgur.com/Mr4EQbW)
 
 This contains mouse keys, arrow keys, and other keys used for navigation.
 
@@ -42,7 +42,7 @@ This contains mouse keys, arrow keys, and other keys used for navigation.
 
 ## Symbol Layer
 
-![Image of Symbol Layer](/Planck/images/symbol.png)
+![Image of Symbol Layer](https://imgur.com/1ny1x9H)
 
 This contains all the symbols that are not found on the other layers.
 
@@ -51,7 +51,7 @@ This contains all the symbols that are not found on the other layers.
 
 ## Function Layer
 
-![Image of Function Layer](/Planck/images/function.png)
+![Image of Function Layer](https://imgur.com/Sc3qUs3)
 
 This has all the function keys from F1 to F24.
 
@@ -63,9 +63,9 @@ This has all the function keys from F1 to F24.
 
 - Adjust: Some settings for RGB control, music mode, and to reset the keyboard.
 
-![Image of Adjust Layer](/Planck/images/adjust.png)
+![Image of Adjust Layer](https://imgur.com/gjxXXqj)
 
 - Plover: Used for stenography (http://www.openstenoproject.org). As I am still learning, I have included tab, enter, backspace, and space keys.
 
-![Image of Plover Layer](/Planck/images/plover.png)
+![Image of Plover Layer](https://imgur.com/uoSHgIC)
 
