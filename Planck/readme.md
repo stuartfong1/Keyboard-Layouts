@@ -65,7 +65,7 @@ This has all the function keys from F1 to F24.
 
 ![Image of Adjust Layer](https://i.imgur.com/gjxXXqj.png)
 
-- Plover: Used for stenography (http://www.openstenoproject.org). As I am still learning, I have included tab, enter, backspace, and space keys.
+- Plover: Used for stenography (http://www.openstenoproject.org). As I am still learning, I have included some extra keys.
 
 ![Image of Plover Layer](https://i.imgur.com/uoSHgIC.png)
 
