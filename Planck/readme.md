@@ -15,9 +15,9 @@ This was made to work on a Planck rev. 6.1, and is used on macOS.
 This uses the Colemak DH layout with the wide mod.
 
 - Colemak is an alternative to the QWERTY layout designed for efficient and ergonomic typing in the English language (https://colemak.com). The Colemak DH is a modification of Colemak that makes the D and H keys easier to reach. The wide mod shifts the halves of the keyboard apart, making it easier on the shoulders (https://colemakmods.github.io/mod-dh/).
-- Space and backspace are located under the thumbs. Rotate the keys on the bottom row for ease of use.
+- Space and backspace are located under the thumbs. Rotate the keys on the bottom row 180° for ease of use.
 - I use Auto Shift. This allows me to hold a key to shift it, which prevents me from having to reach for the shift key. The time to activate auto shift can be changed in the config.h file.
-- 4 of the keys in the center are used for dynamic macros. Hold one of the top keys to start recording, and tap it to stop recording. Tap the middle key to play the macro. 2 macros can be stored at a time; the keys on the left are used for macro #1, and the keys on the right are used for macro #2.
+- The 4 keys in the center are used for dynamic macros. On each side, hold the top key to start recording, and tap it to stop recording. Tap the middle key to play the macro. 2 macros can be stored at a time; the keys on the left are used for macro #1, and the keys on the right are used for macro #2.
 - Modifiers are located at the bottom left and bottom right of the keyboard. They can be accessed by moving the thumbs or with the sides of your hands.
 
 ## Numpad Layer
