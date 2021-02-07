@@ -22,7 +22,7 @@ This uses the Colemak DH layout with the wide mod.
 
 ## Numpad Layer
 
-![Image of Numpad Layer](https://i.imgur.com/tu45YVI.png)
+![Image of Numpad Layer](https://i.imgur.com/dPzvYM6.png)
 
 This contains a numpad and some non-alphanumeric characters such as math symbols and quotes.
 
