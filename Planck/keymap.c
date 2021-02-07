@@ -57,7 +57,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] =
      * ,-----------------------------------------------------------------------------------.
      * |   Q  |   W  |   F  |   P  |   B  |Macro1|Macro2|   J  |   L  |   U  |   Y  |   ;  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
-     * |   A  |   R  |   S  |   T  |   G  | Play1| Play2|   M  |   N  |   E  |   I  |   O  |
+     * |   A  |   R  |   S  |   T  |   G  |Play 1|Play 2|   M  |   N  |   E  |   I  |   O  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
      * |   Z  |   X  |   C  |   D  |   V  | Shift| Shift|   K  |   H  |   ,  |   .  |   /  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
@@ -75,11 +75,11 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] =
      * ,-----------------------------------------------------------------------------------.
      * |   #  |   #  |   #  |   #  |   #  |   #  |   #  |   #  |   #  |   #  |   #  |   #  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
-     * |      |   S  |   T  |   P  |   H  |   *  |   *  |   F  |   P  |   L  |   T  |   D  |
+     * |  Tab |   S  |   T  |   P  |   H  |   *  |   *  |   F  |   P  |   L  |   T  |   D  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
-     * |      |   S  |   K  |   W  |   R  |   *  |   *  |   R  |   B  |   G  |   S  |   Z  |
+     * | Enter|   S  |   K  |   W  |   R  |   *  |   *  |   R  |   B  |   G  |   S  |   Z  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
-     * | Exit |      |      |   A  |   O  |      |      |   E  |   U  |      |      |      |
+     * | Exit |  Up  | Down |   A  |   O  | Bksp | Space|   E  |   U  | Left | Right|  Esc |
      * `-----------------------------------------------------------------------------------'
      */
     [_PLOVER] = LAYOUT_planck_grid(
@@ -97,14 +97,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] =
      * |------+------+------+------+------+------+------+------+------+------+------+------|
      * |   \  |   &  |   !  |  []  |   ^  |      |      |   *  |   1  |   2  |   3  |   ,  |
      * |------+------+------+------+------+------+------+------+------+------+------+------|
-     * |      |      |      |      |      |      |      |      | Space| Bksp | Enter|      |
+     * |      |      |      |      |      |      |      | Enter| Space| Bksp |      |      |
      * `-----------------------------------------------------------------------------------'
      */
     [_LOWER] = LAYOUT_planck_grid(
-        KC_MINS, KC_QUOT, KC_SCLN, CBR,     KC_PERC, XXXXXXX, XXXXXXX, KC_PPLS, KC_P7, KC_P8,   KC_P9,  KC_DOT, 
-        KC_UNDS, DQUO,    KC_PEQL, PRN,     KC_PSLS, XXXXXXX, XXXXXXX, KC_PMNS, KC_P4, KC_P5,   KC_P6,  KC_P0, 
-        KC_PIPE, KC_AMPR, KC_EXLM, BRC,     KC_CIRC, XXXXXXX, XXXXXXX, KC_PAST, KC_P1, KC_P2,   KC_P3,  KC_COMM, 
-        XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, LTR,   KC_BSPC, KC_ENT, XXXXXXX
+        KC_MINS, KC_QUOT, KC_SCLN, CBR,     KC_PERC, XXXXXXX, XXXXXXX, KC_PPLS, KC_P7, KC_P8,   KC_P9,   KC_DOT, 
+        KC_UNDS, DQUO,    KC_PEQL, PRN,     KC_PSLS, XXXXXXX, XXXXXXX, KC_PMNS, KC_P4, KC_P5,   KC_P6,   KC_P0, 
+        KC_PIPE, KC_AMPR, KC_EXLM, BRC,     KC_CIRC, XXXXXXX, XXXXXXX, KC_PAST, KC_P1, KC_P2,   KC_P3,   KC_COMM, 
+        XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_ENT,  LTR,   KC_BSPC, XXXXXXX, XXXXXXX
     ),
 
     /* Raise
